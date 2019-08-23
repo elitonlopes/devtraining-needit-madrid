@@ -1,153 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="u_country" table="x_58872_needit_needit" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>TH</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:54</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>b46e295bdb9733000d81af2648961915</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:54</sys_updated_on>
-            <value>th</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>HK</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>1</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:54</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>346e295bdb9733000d81af2648961917</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:54</sys_updated_on>
-            <value>hk</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>BR</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>2</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:54</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>fc6e295bdb9733000d81af2648961918</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:54</sys_updated_on>
-            <value>br</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>AU</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>3</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:54</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>b86e295bdb9733000d81af264896191a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:54</sys_updated_on>
-            <value>au</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>LU</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>4</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:54</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>746e295bdb9733000d81af264896191c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:54</sys_updated_on>
-            <value>lu</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>JP</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>5</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:55</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>306e295bdb9733000d81af264896191e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:55</sys_updated_on>
-            <value>jp</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>u_country</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>US</label>
-            <language>en</language>
-            <name>x_58872_needit_needit</name>
-            <sequence>6</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:55</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>f86e295bdb9733000d81af264896191f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:55</sys_updated_on>
-            <value>us</value>
-        </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
+    <sys_choice action="DELETE" field="u_country" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
             <element>u_country</element>
             <name>x_58872_needit_needit</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_class_name/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-21 14:33:54</sys_created_on>
-            <sys_id>fc6e295bdb9733000d81af2648961915</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_created_on/>
+            <sys_id>dd4e766bdbd333000d81af26489619dc</sys_id>
+            <sys_mod_count/>
             <sys_name>u_country</sys_name>
             <sys_package display_value="RGR" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="RGR">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_choice_x_58872_needit_needit_u_country</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-21 14:33:54</sys_updated_on>
+            <sys_updated_on>2019-08-22 15:02:33</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RGR">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>eaff4130db9d3fc08aea21c4059619c4</instance_id>
+        <instance_name>dev85358</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_country</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_country" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_country</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by>admin</sys_created_by><sys_created_on/><sys_id>dd4e766bdbd333000d81af26489619dc</sys_id><sys_mod_count/><sys_name>u_country</sys_name><sys_package display_value="RGR" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="RGR">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_choice_x_58872_needit_needit_u_country</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-22 15:02:33</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1309524619</payload_hash>
+        <record_name>x_58872_needit_needit.u_country</record_name>
+        <reverted_from/>
+        <source>075efe2bdbd333000d81af2648961922</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 15:02:33</sys_created_on>
+        <sys_id>ca8e7e6bdbd333000d81af26489619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cb9d9c7f60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 15:02:33</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>468e7e6b57d33300450b5922fd26bdef</update_guid>
+        <update_guid_history>468e7e6b57d33300450b5922fd26bdef:1309524619,ca8e7e6bf7d33300ef49fe169d8499eb:2067034404,4a8e7e6b7bd33300262b840164162ae8:-1356342366,f58e7e6b0ed333005833c2ef8f03e8e5:872621665,758e7e6b8dd33300fb4fb9ff069b65e2:-209624351,b18e7e6b0dd33300d3d77814d1d7fddf:-113156606,318e7e6b70d33300f78495f6779f86dc:-970593564,e88d3e6703d3330090980a5c4bfcd2d4:1658241150,a48d3e67f3d3330053995673099081d1:2067034404,248d3e678bd33300770f71c803fd0dce:-1356342366,a08d3e6705d33300bae3ad084fbb8acb:872621665,208d3e6799d33300202844b34e4d25c8:-209624351,ac8d3e67ddd33300f7061eef81f486c4:-113156606,2c8d3e673fd33300d71d0b2b67d14ec1:-970593564,b06e295bbf973300821b651d8731e322:2050612039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-22 15:10:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>5e60032fdbd333000d81af26489619c8</sys_id>
+        <sys_metadata>5e60032fdbd333000d81af26489619c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_country</sys_name>
+        <sys_package display_value="RGR" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RGR">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_country</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_country">ca8e7e6bdbd333000d81af26489619ef</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-22 15:10:49</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>
